@@ -6,4 +6,5 @@ This repo contains my implementation of the Caesar Cipher as described in The Od
 The documentation says to: 
 
   ```Build a tic-tac-toe game on the command line where two human players can play against each other and the board is displayed in between turns.```
-  
+
+This part of the The odin project has introduced Object Oriented Programming and the Ruby style guide.
