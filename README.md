@@ -1,2 +1,9 @@
-# odin_tictactoe
-Tic tac toe project from the odin project
+# The Odin Project
+## Tic Tac Toe
+
+This repo contains my implementation of the Caesar Cipher as described in The Odin Project.
+
+The documentation says to: 
+
+  ```Build a tic-tac-toe game on the command line where two human players can play against each other and the board is displayed in between turns.```
+  
