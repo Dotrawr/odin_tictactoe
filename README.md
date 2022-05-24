@@ -1,7 +1,7 @@
 # The Odin Project
 ## Tic Tac Toe
 
-This repo contains my implementation of the Caesar Cipher as described in The Odin Project.
+This repo contains my implementation of the Tic Tac Toe project as described in The Odin Project.
 
 The documentation says to: 
 
